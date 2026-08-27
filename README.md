@@ -21,7 +21,6 @@ I'm passionate about data analytics, business intelligence, logistics, and trans
 - Excel
 - SQL
 - Python
-- Pandas
 
 **Data Visualization**
 - Power BI
@@ -33,29 +32,7 @@ I'm passionate about data analytics, business intelligence, logistics, and trans
 - GitHub
 - Jupyter Notebook
 - VS Code
-
-## 📂 Projects
-
-### 📊 Data Cleaning & Data Quality
-Projects focused on cleaning, transforming, and improving datasets while identifying missing values, duplicates, inconsistencies, and other data-quality issues.
-
-### 🚚 Fleet & Logistics Analytics
-Exploring how data can support fleet operations through analysis of vehicle performance, fuel consumption, maintenance, utilization, transportation costs, and operational efficiency.
-
-### 📈 Business Analytics
-Analyzing business datasets to identify trends, KPIs, patterns, and insights that can support better business decisions.
-
-## 🌱 Currently Learning
-
-- Advanced Excel
-- SQL
-- Python for Data Analysis
-- Power BI
-- Data Cleaning
-- Data Quality
-- Statistics
-- Business Intelligence
-- Fleet & Transportation Analytics
+  
 
 ## 🎯 Career Interests
 
@@ -65,11 +42,6 @@ I'm interested in opportunities related to:
 
 My goal is to build strong technical and analytical skills while using data to solve practical business and operational problems.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awedaniel49&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awedaniel49&layout=compact&hide_border=true)
 
 ## 🤝 Let's Connect
 
