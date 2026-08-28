@@ -1,38 +1,210 @@
-# Hi, I'm Awe Daniel 👋
+# 🎯 AWE DANIEL – DATA ANALYST PORTFOLIO
 
-**Data Analyst | Aspiring Fleet & Logistics Analyst | Data Enthusiast**
+## 📖 ABOUT
 
-Welcome to my GitHub profile! 👋
+Welcome to my data analytics portfolio!
 
-I'm passionate about data analytics, business intelligence, logistics, and transportation operations. I enjoy working with data to uncover patterns, solve problems, and turn raw information into meaningful insights.
+Here, I showcase my data analytics projects, technical skills, and learning journey as I build my career in data analytics.
 
-## 🚀 About Me
+I'm passionate about transforming raw data into meaningful insights through data cleaning, analysis, visualization, and storytelling. With a background in Automobile Technology, I'm also interested in applying data analytics to automobile, fleet management, transportation, and logistics.
 
-- 📊 Interested in Data Analytics & Business Intelligence
-- 🚚 Interested in Fleet, Logistics & Transportation Analytics
-- 🧹 Learning and practicing Data Cleaning & Data Quality
-- 📈 Building projects that solve real-world problems
-- 💻 Developing my skills through hands-on projects
-- 🌱 Always learning and improving
+---
 
-## 🛠️ Tools & Technologies
+## 📊 PORTFOLIO PROJECTS
 
-**Data Analysis**
-- Excel
-- SQL
-- Python
+Below are some of my key data analytics projects. Each project includes a brief overview of the tools, skills, objectives, and insights gained.
 
-**Data Visualization**
-- Power BI
-- Excel
-- Matplotlib
+### 1. 🛒 E-commerce Sales & Customer Analysis
 
-**Other Tools**
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-  
+🔗 View Project Repository
+
+**Brief Description:**
+An analysis of a large e-commerce dataset to explore sales performance, customer behavior, product trends, and business performance.
+
+**Tools & Skills Used:**
+Excel, Python, Pandas, Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Storytelling, GitHub Documentation.
+
+**Project Goals:**
+To analyze e-commerce data, identify important sales and customer trends, and generate insights that can support better business decisions.
+
+**Results:**
+Identified key sales patterns, customer trends, and product performance indicators that can help businesses understand their customers and improve sales strategies.
+
+---
+
+### 2. 🎬 Netflix Content Analysis
+
+🔗 View Project Repository
+
+**Brief Description:**
+An exploratory analysis of Netflix's content library to understand trends in movies and TV shows, including content types, release years, countries, and genres.
+
+**Tools & Skills Used:**
+Excel, Power BI, Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Storytelling.
+
+**Project Goals:**
+To explore Netflix's content catalog and identify patterns and trends in the platform's movie and TV show offerings.
+
+**Results:**
+Discovered trends in content production, release years, genres, countries, and the distribution of movies and TV shows within the dataset.
+
+---
+
+### 3. 💰 Sales Performance Dashboard
+
+🔗 View Project Repository
+
+**Brief Description:**
+An interactive Power BI dashboard developed using the Superstore dataset to analyze sales, profit, products, customers, and regional performance.
+
+**Tools & Skills Used:**
+Power BI, DAX, Excel, Data Cleaning, Data Modeling, Data Visualization, Dashboard Design, Business Analysis.
+
+**Project Goals:**
+To create an interactive dashboard that provides a clear overview of sales and profitability while helping identify areas of strong and weak business performance.
+
+**Results:**
+Created an interactive dashboard that highlights sales and profit trends, top-performing products and regions, customer performance, and other important business KPIs.
+
+---
+
+### 4. 🏦 Bank Marketing Campaign Analysis
+
+🔗 [View Project Repository](https://github.com/awedaniel06/Week5-bank-campaign-analysis-Analystlab-internship)
+
+**Brief Description:**
+An analysis of a bank marketing campaign dataset containing over 11,000 customer records to understand the factors influencing customer subscription decisions.
+
+**Tools & Skills Used:**
+Power BI, DAX, Excel, Data Cleaning, Data Analysis, Data Visualization, Dashboard Design, Business Intelligence.
+
+**Project Goals:**
+To identify customer characteristics and campaign factors associated with successful term-deposit subscriptions.
+
+**Results:**
+Found that longer customer conversations were associated with higher conversion, cellular outreach performed strongly, customers without housing loans showed higher conversion, and previous successful campaign outcomes were strong indicators of future conversion.
+
+---
+
+### 5. 📈 Apple Stock Data Analysis
+
+🔗 View Project Repository
+
+**Brief Description:**
+A Python-based analysis of Apple stock market data to explore price movements, trends, and other characteristics of historical stock performance.
+
+**Tools & Skills Used:**
+Python, Pandas, Jupyter Notebook, Data Cleaning, Exploratory Data Analysis, Data Visualization.
+
+**Project Goals:**
+To strengthen my Python data analysis skills while exploring financial market data and identifying patterns within historical stock prices.
+
+**Results:**
+Performed data preparation and exploratory analysis to uncover trends and patterns in Apple's historical stock performance.
+
+---
+
+### 6. 🗄️ SQL Sales Data Analysis
+
+🔗 View Project Repository
+
+**Brief Description:**
+A SQL-focused project involving the analysis of sales data to answer business questions and generate useful insights.
+
+**Tools & Skills Used:**
+MySQL, SQL, Aggregate Functions, JOINs, Subqueries, Window Functions, Data Analysis.
+
+**Project Goals:**
+To strengthen my SQL skills and demonstrate how databases can be queried to solve real-world business problems.
+
+**Results:**
+Developed SQL queries to analyze revenue, sales trends, customer performance, and time-based business metrics using advanced SQL techniques.
+
+---
+
+### 7. 🐍 Python Data Analytics Projects
+
+🔗 View Project Repository
+
+**Brief Description:**
+A collection of Python-based data analytics exercises and projects created to strengthen my programming, data manipulation, and analytical problem-solving skills.
+
+**Tools & Skills Used:**
+Python, Pandas, Functions, Loops, Lists, Dictionaries, Data Cleaning, Exploratory Data Analysis, Jupyter Notebook.
+
+**Project Goals:**
+To develop strong Python fundamentals and become more confident working with real-world datasets.
+
+**Results:**
+Built practical projects while improving my ability to clean, manipulate, analyze, and visualize data using Python.
+
+---
+
+### 8. 🚗 Used & New Car Market Analysis (Cars45 Nigeria)
+
+🔗 [View Project Repository](https://github.com/awedaniel06/Car45-market-analysis-)
+
+**Brief Description:**
+A two-page Power BI dashboard analyzing 1,722 vehicle listings from Cars45 Nigeria, examining price and supply patterns across selling condition, manufacturer, mileage category, year of manufacture, and colour.
+
+**Tools & Skills Used:**
+Power BI, DAX, Data Cleaning, Data Modeling, Data Visualization, Dashboard Design, Market/Business Analysis.
+
+**Project Goals:**
+To analyze pricing and supply dynamics in Nigeria's used and new car market, and uncover insights into consumer behavior, dealer positioning, and market opportunities.
+
+**Results:**
+Found that the market is overwhelmingly used-vehicle-driven (99.77% registered or imported), with price rising with vehicle recency and falling with mileage. Identified a sharp divergence between price-leading brands (Tesla, Porsche, Land Rover) and volume-leading brands (Toyota, Lexus, Honda), and pinpointed the 2005–2015 manufacture band as the market's practical "sweet spot" of highest listing concentration and moderate pricing.
+
+---
+
+## 🛠️ TECHNICAL SKILLS
+
+**Data Analysis:**
+Excel • Python • Pandas • SQL
+
+**Business Intelligence:**
+Power BI • DAX
+
+**Databases:**
+MySQL
+
+**Programming & Automation:**
+Python • VBA
+
+**Data Visualization:**
+Power BI • Excel
+
+**Tools:**
+Jupyter Notebook • Google Colab 
+
+---
+
+## 🚗 AUTOMOBILE & DATA ANALYTICS
+
+My background in Automobile Technology has influenced my interest in using data to solve problems within the automotive and transportation industries.
+
+I'm particularly interested in:
+
+- Fleet Management Analytics
+- Vehicle Maintenance Analytics
+- Transportation Analytics
+- Logistics Data Analysis
+- Vehicle Performance Data
+- Predictive Maintenance
+- Automotive Business Intelligence
+
+My long-term goal is to combine Automobile Technology + Data Analytics to develop data-driven solutions for fleet and transportation operations. The Cars45 Nigeria market analysis above (Project 8) is a concrete example of this direction — applying pricing, supply, and brand-positioning analysis to a real automotive marketplace dataset.
+
+---
+
+## 📜 CERTIFICATIONS
+
+- Data Analytics Internship Certificate – AnalystLab Africa
+[Certifications](https://drive.google.com/file/d/16xwry52eaTigjOzNwAM3ppqSUOQzB-n6/view?usp=drivesdk)
+
+---
+
 
 ## 🎯 Career Interests
 
