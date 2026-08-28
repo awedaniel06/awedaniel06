@@ -14,43 +14,7 @@ I'm passionate about transforming raw data into meaningful insights through data
 
 Below are some of my key data analytics projects. Each project includes a brief overview of the tools, skills, objectives, and insights gained.
 
-### 1. 🛒 E-commerce Sales & Customer Analysis
-
-🔗 View Project Repository
-
-**Brief Description:**
-An analysis of a large e-commerce dataset to explore sales performance, customer behavior, product trends, and business performance.
-
-**Tools & Skills Used:**
-Excel, Python, Pandas, Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Storytelling, GitHub Documentation.
-
-**Project Goals:**
-To analyze e-commerce data, identify important sales and customer trends, and generate insights that can support better business decisions.
-
-**Results:**
-Identified key sales patterns, customer trends, and product performance indicators that can help businesses understand their customers and improve sales strategies.
-
----
-
-### 2. 🎬 Netflix Content Analysis
-
-🔗 View Project Repository
-
-**Brief Description:**
-An exploratory analysis of Netflix's content library to understand trends in movies and TV shows, including content types, release years, countries, and genres.
-
-**Tools & Skills Used:**
-Excel, Power BI, Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Storytelling.
-
-**Project Goals:**
-To explore Netflix's content catalog and identify patterns and trends in the platform's movie and TV show offerings.
-
-**Results:**
-Discovered trends in content production, release years, genres, countries, and the distribution of movies and TV shows within the dataset.
-
----
-
-### 3. 🏬 Retail Sales Performance Analysis (Multi-Region Retail, Nigeria)
+### 1. 🏬 Retail Sales Performance Analysis (Multi-Region Retail, Nigeria)
 
 🔗 [View Project Repository](https://github.com/awedaniel06/Retail-sales-analysis-)
 
@@ -67,6 +31,41 @@ To evaluate overall business performance, regional and branch-level sales, and c
 Found that Electronics drove 78.7% of revenue and the South South region (led by Benin City) was the strongest performer, outpacing Lagos despite its reputation as Nigeria's commercial hub. Identified an elevated 22.73% return rate as the top area of concern, alongside a volatile month-to-month revenue pattern suggesting reliance on large, irregular transactions, and a customer base with strong retention (72.53% returning) but underperforming loyalty-program engagement relative to walk-in traffic.
 
 ---
+
+### 2. 🚗 Used & New Car Market Analysis (Cars45 Nigeria)
+
+🔗 [View Project Repository](https://github.com/awedaniel06/Car45-market-analysis-)
+
+**Brief Description:**
+A two-page Power BI dashboard analyzing 1,722 vehicle listings from Cars45 Nigeria, examining price and supply patterns across selling condition, manufacturer, mileage category, year of manufacture, and colour.
+
+**Tools & Skills Used:**
+Power BI, DAX, Data Cleaning, Data Modeling, Data Visualization, Dashboard Design, Market/Business Analysis.
+
+**Project Goals:**
+To analyze pricing and supply dynamics in Nigeria's used and new car market, and uncover insights into consumer behavior, dealer positioning, and market opportunities.
+
+**Results:**
+Found that the market is overwhelmingly used-vehicle-driven (99.77% registered or imported), with price rising with vehicle recency and falling with mileage. Identified a sharp divergence between price-leading brands (Tesla, Porsche, Land Rover) and volume-leading brands (Toyota, Lexus, Honda), and pinpointed the 2005–2015 manufacture band as the market's practical "sweet spot" of highest listing concentration and moderate pricing.
+
+---
+
+## 3. 🛒 E-commerce Sales & Customer Analysis
+
+🔗 [View Project Repository](https://github.com/awedaniel06/Ecommerce-Sales-Analysis)
+
+**Brief Description:**
+An analysis of a large e-commerce dataset to explore sales performance, customer behavior, product trends, and business performance.
+
+**Tools & Skills Used:**
+Excel, Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Storytelling, GitHub Documentation.
+
+**Project Goals:**
+To analyze e-commerce data, identify important sales and customer trends, and generate insights that can support better business decisions.
+
+**Results:**
+Identified key sales patterns, customer trends, and product performance indicators that can help businesses understand their customers and improve sales strategies.
+
 ---
 
 ### 4. 🏦 Bank Marketing Campaign Analysis
@@ -89,7 +88,7 @@ Found that longer customer conversations were associated with higher conversion,
 
 ### 5. 📈 Apple Stock Data Analysis
 
-🔗 View Project Repository
+🔗 [View Project Repository](https://github.com/awedaniel06/Week-6-Analystlab-Africa-Apple-AAPL-stock-data)
 
 **Brief Description:**
 A Python-based analysis of Apple stock market data to explore price movements, trends, and other characteristics of historical stock performance.
@@ -107,7 +106,7 @@ Performed data preparation and exploratory analysis to uncover trends and patter
 
 ### 6. 🗄️ SQL Sales Data Analysis
 
-🔗 View Project Repository
+🔗 [View Project Repository](https://github.com/awedaniel06/Analystlab-week3-Task1-SQL-queries-and-analysis-on-Sales-Dataset)
 
 **Brief Description:**
 A SQL-focused project involving the analysis of sales data to answer business questions and generate useful insights.
@@ -123,26 +122,7 @@ Developed SQL queries to analyze revenue, sales trends, customer performance, an
 
 ---
 
-### 7. 🚗 Used & New Car Market Analysis (Cars45 Nigeria)
-
-🔗 [View Project Repository](https://github.com/awedaniel06/Car45-market-analysis-)
-
-**Brief Description:**
-A two-page Power BI dashboard analyzing 1,722 vehicle listings from Cars45 Nigeria, examining price and supply patterns across selling condition, manufacturer, mileage category, year of manufacture, and colour.
-
-**Tools & Skills Used:**
-Power BI, DAX, Data Cleaning, Data Modeling, Data Visualization, Dashboard Design, Market/Business Analysis.
-
-**Project Goals:**
-To analyze pricing and supply dynamics in Nigeria's used and new car market, and uncover insights into consumer behavior, dealer positioning, and market opportunities.
-
-**Results:**
-Found that the market is overwhelmingly used-vehicle-driven (99.77% registered or imported), with price rising with vehicle recency and falling with mileage. Identified a sharp divergence between price-leading brands (Tesla, Porsche, Land Rover) and volume-leading brands (Toyota, Lexus, Honda), and pinpointed the 2005–2015 manufacture band as the market's practical "sweet spot" of highest listing concentration and moderate pricing.
-
-
----
-
-# 8. 🚕 GoMotion Rides Dashboard (Ride-Hailing Operations Analysis)
+# 7. 🚕 GoMotion Rides Dashboard (Ride-Hailing Operations Analysis)
 
 🔗 [View Project Repository](https://github.com/awedaniel06/GoMotion-Ride-Data-Analysis)
 
