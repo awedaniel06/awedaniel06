@@ -122,25 +122,7 @@ Developed SQL queries to analyze revenue, sales trends, customer performance, an
 
 ---
 
-### 7. 🐍 Python Data Analytics Projects
-
-🔗 View Project Repository
-
-**Brief Description:**
-A collection of Python-based data analytics exercises and projects created to strengthen my programming, data manipulation, and analytical problem-solving skills.
-
-**Tools & Skills Used:**
-Python, Pandas, Functions, Loops, Lists, Dictionaries, Data Cleaning, Exploratory Data Analysis, Jupyter Notebook.
-
-**Project Goals:**
-To develop strong Python fundamentals and become more confident working with real-world datasets.
-
-**Results:**
-Built practical projects while improving my ability to clean, manipulate, analyze, and visualize data using Python.
-
----
-
-### 8. 🚗 Used & New Car Market Analysis (Cars45 Nigeria)
+### 7. 🚗 Used & New Car Market Analysis (Cars45 Nigeria)
 
 🔗 [View Project Repository](https://github.com/awedaniel06/Car45-market-analysis-)
 
@@ -155,6 +137,25 @@ To analyze pricing and supply dynamics in Nigeria's used and new car market, and
 
 **Results:**
 Found that the market is overwhelmingly used-vehicle-driven (99.77% registered or imported), with price rising with vehicle recency and falling with mileage. Identified a sharp divergence between price-leading brands (Tesla, Porsche, Land Rover) and volume-leading brands (Toyota, Lexus, Honda), and pinpointed the 2005–2015 manufacture band as the market's practical "sweet spot" of highest listing concentration and moderate pricing.
+
+
+---
+
+# 8. 🚕 GoMotion Rides Dashboard (Ride-Hailing Operations Analysis)
+
+🔗 [View Project Repository](https://github.com/awedaniel06/GoMotion-Ride-Data-Analysis)
+
+**Brief Description:**
+An Excel dashboard analyzing 10,000 ride-hailing requests across 1,201 customers and 61 drivers for GoMotion, covering ride demand patterns, revenue by pickup location, cancellation reasons, and ride status outcomes.
+
+**Tools & Skills Used:**
+Excel, PivotTables, Data Cleaning, Data Visualization, Dashboard Design, Operations Analysis.
+
+**Project Goals:**
+To analyze ride-hailing operations data and uncover insights into demand patterns, revenue concentration, cancellation drivers, and service-quality issues to support operational decision-making.
+
+**Results:**
+Found a 67% ride completion rate (6,738 of 10,000 requests), with revenue fairly evenly spread across top pickup zones (Oxford Circus, King's Cross, Euston, Camden, Victoria). Identified a low average customer rating (2/5) linked to driver-side cancellation reasons, and a 10% "no driver available" rate concentrated in high-demand afternoon and night periods, pointing to service-quality and driver-supply gaps as the platform's key improvement areas.
 
 ---
 
