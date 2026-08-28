@@ -162,24 +162,6 @@ Jupyter Notebook • Google Colab
 
 ---
 
-## 🚗 AUTOMOBILE & DATA ANALYTICS
-
-My background in Automobile Technology has influenced my interest in using data to solve problems within the automotive and transportation industries.
-
-I'm particularly interested in:
-
-- Fleet Management Analytics
-- Vehicle Maintenance Analytics
-- Transportation Analytics
-- Logistics Data Analysis
-- Vehicle Performance Data
-- Predictive Maintenance
-- Automotive Business Intelligence
-
-My long-term goal is to combine Automobile Technology + Data Analytics to develop data-driven solutions for fleet and transportation operations. The Cars45 Nigeria market analysis above (Project 8) is a concrete example of this direction — applying pricing, supply, and brand-positioning analysis to a real automotive marketplace dataset.
-
----
-
 ## 📜 CERTIFICATIONS
 
 - Data Analytics Internship Certificate – AnalystLab Africa
@@ -188,11 +170,7 @@ My long-term goal is to combine Automobile Technology + Data Analytics to develo
 ---
 
 
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-**Data Analytics • Business Intelligence • Fleet Analytics • Logistics Analytics • Transportation • Operations Analytics**
+## 🎯 Career Interest
 
 My goal is to build strong technical and analytical skills while using data to solve practical business and operational problems.
 
