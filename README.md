@@ -106,7 +106,7 @@ Performed data preparation and exploratory analysis to uncover trends and patter
 
 ### 6. 🗄️ SQL Sales Data Analysis
 
-🔗 View Project Repository
+🔗 [View Project Repository](https://github.com/awedaniel06/Retail-sales-analysis-)
 
 **Brief Description:**
 A SQL-focused project involving the analysis of sales data to answer business questions and generate useful insights.
