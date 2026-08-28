@@ -222,9 +222,9 @@ I'm open to connecting with professionals, recruiters, students, and other peopl
 
 📧 Email: awedaniel49@gmail.com
 
-💼 LinkedIn: https://github.com/awedaniel06
+💼 LinkedIn: https://www.linkedin.com/in/awedaniel06
 
-🐙 GitHub: https://github.com/awedaniel49@gmail.com
+🐙 GitHub: https://github.com/awedaniel06
 
 ---
 
