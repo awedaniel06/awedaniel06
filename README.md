@@ -50,22 +50,23 @@ Discovered trends in content production, release years, genres, countries, and t
 
 ---
 
-### 3. 💰 Sales Performance Dashboard
+### 3. 🏬 Retail Sales Performance Analysis (Multi-Region Retail, Nigeria)
 
-🔗 View Project Repository
+🔗 [View Project Repository](https://github.com/awedaniel06/Retail-sales-analysis-)
 
 **Brief Description:**
-An interactive Power BI dashboard developed using the Superstore dataset to analyze sales, profit, products, customers, and regional performance.
+A three-page Power BI reporting suite (Overview, Regional, and Customer dashboards) analyzing $78.7M in revenue across 484 transactions, 182 customers, and 20 store branches spanning five regions of a multi-region Nigerian retail operation (Jan 2023–Jul 2024).
 
 **Tools & Skills Used:**
-Power BI, DAX, Excel, Data Cleaning, Data Modeling, Data Visualization, Dashboard Design, Business Analysis.
+Power BI, DAX, Data Cleaning, Data Modeling, Data Visualization, Dashboard Design, Business/Retail Analysis.
 
 **Project Goals:**
-To create an interactive dashboard that provides a clear overview of sales and profitability while helping identify areas of strong and weak business performance.
+To evaluate overall business performance, regional and branch-level sales, and customer behavior in order to surface revenue concentration risks, return-rate issues, and growth opportunities for stakeholders.
 
 **Results:**
-Created an interactive dashboard that highlights sales and profit trends, top-performing products and regions, customer performance, and other important business KPIs.
+Found that Electronics drove 78.7% of revenue and the South South region (led by Benin City) was the strongest performer, outpacing Lagos despite its reputation as Nigeria's commercial hub. Identified an elevated 22.73% return rate as the top area of concern, alongside a volatile month-to-month revenue pattern suggesting reliance on large, irregular transactions, and a customer base with strong retention (72.53% returning) but underperforming loyalty-program engagement relative to walk-in traffic.
 
+---
 ---
 
 ### 4. 🏦 Bank Marketing Campaign Analysis
@@ -106,7 +107,7 @@ Performed data preparation and exploratory analysis to uncover trends and patter
 
 ### 6. 🗄️ SQL Sales Data Analysis
 
-🔗 [View Project Repository](https://github.com/awedaniel06/Retail-sales-analysis-)
+🔗 View Project Repository
 
 **Brief Description:**
 A SQL-focused project involving the analysis of sales data to answer business questions and generate useful insights.
