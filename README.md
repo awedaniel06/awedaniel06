@@ -6,7 +6,7 @@ Welcome to my data analytics portfolio!
 
 Here, I showcase my data analytics projects, technical skills, and learning journey as I build my career in data analytics.
 
-I'm passionate about transforming raw data into meaningful insights through data cleaning, analysis, visualization, and storytelling. With a background in Automobile Technology, I'm also interested in applying data analytics to automobile, fleet management, transportation, and logistics.
+I'm passionate about transforming raw data into meaningful insights through data cleaning, analysis, visualization, and storytelling. 
 
 ---
 
